@@ -26,7 +26,9 @@ Título: **"Inteligência Artificial: Catalisadora da Evolução das Mulheres no
 
 2. **Empoderamento feminino no empreendedorismo**  
    - Ferramentas de IA que auxiliam no desenvolvimento de negócios liderados por mulheres.  
-   - Casos de sucesso inspiradores.  
+   - Casos de sucesso inspiradores.
+  
+   - link para o podcats Gravação de Tela 2025-01-12 143405 (online-audio-converter.com).mp3
 
 **Bloco 3: Desafios e Responsabilidades**  
 1. **A importância de maior representatividade feminina no desenvolvimento da IA**  
