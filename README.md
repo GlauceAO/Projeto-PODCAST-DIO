@@ -44,5 +44,3 @@ Título: **"Inteligência Artificial: Catalisadora da Evolução das Mulheres no
 **Interação Final**  
 - Sessão de perguntas e respostas.  
 - Sugestão de recursos para quem quer começar na área de IA.  
-
-Se precisar de ajustes ou aprofundar em algum ponto, é só me avisar! 😊
